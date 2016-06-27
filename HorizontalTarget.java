@@ -1,4 +1,4 @@
-public class HorizontalTarget //extends Target
+public class HorizontalTarget extends Target
 {
     // instance variables - replace the example below with your own
       

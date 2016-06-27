@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.ArrayList;
-public class BlinkingTarget //extends Target
+public class BlinkingTarget extends Target
 {
     int time = 0;
     // instance variables - replace the example below with your own
