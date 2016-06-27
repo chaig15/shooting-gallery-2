@@ -1,10 +1,7 @@
 import java.util.Random;
-import java.util.ArrayList;
 public class BlinkingTarget extends Target
 {
     int time = 0;
-    // instance variables - replace the example below with your own
-
     BlinkingTarget (double x, double y, double v, double theta) {
         this.x=x;
         this.y=y;

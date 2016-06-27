@@ -1,7 +1,6 @@
 public class HorizontalTarget extends Target
 {
-    // instance variables - replace the example below with your own
-      
+
     HorizontalTarget (double x, double y, double v, double theta) {
         this.x=x;
         this.y=y;
