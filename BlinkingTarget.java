@@ -1,4 +1,5 @@
 import java.util.Random;
+//blinking baseball target
 public class BlinkingTarget extends Target
 {
     int time = 0;
