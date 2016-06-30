@@ -1,10 +1,10 @@
 
 import java.awt.*;
-import javax.swing.JApplet;
+import java.applet.Applet;
 import java.util.*;
 import java.awt.event.*;
 
-public class s extends JApplet implements Runnable, MouseListener { 
+public class s extends Applet implements Runnable, MouseListener {
     Thread t;   
     int timeStep = 100;
     ArrayList<Target> targs = new ArrayList<Target>();
